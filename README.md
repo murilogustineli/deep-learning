@@ -1,2 +1,3 @@
-# deep-learning-specialization
-deep learning specialization on Coursera
+# Deep Learning Specialization
+[**Deep Learning specialization on Coursera**](https://www.coursera.org/specializations/deep-learning)
+
